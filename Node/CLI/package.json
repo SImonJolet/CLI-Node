@@ -1,0 +1,19 @@
+{
+  "name": "cli_simon_jolet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SImonJolet/Node-CLI.git"
+  },
+  "author": "simon jolet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SImonJolet/Node-CLI/issues"
+  },
+  "homepage": "https://github.com/SImonJolet/Node-CLI#readme"
+}
